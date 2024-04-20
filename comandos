@@ -1,0 +1,5 @@
+npm install
+npm install primevue --save
+npm install axios
+recordar usar "sudo" para los comandos 
+y la contraseña es: d3v3l0p3rUPC

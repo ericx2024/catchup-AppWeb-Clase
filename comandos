@@ -1,5 +1,9 @@
 npm install
 npm install primevue --save
 npm install axios
+npm install primeflex
+npm install sudo npm install primeicons
+npm install vue-i18n
+
 recordar usar "sudo" para los comandos 
 y la contraseña es: d3v3l0p3rUPC
